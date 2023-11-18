@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SuryaDas/static/css/main.f855e6bc.css",
+    "main.js": "/SuryaDas/static/js/main.b84762c8.js",
+    "static/js/787.51ce941a.chunk.js": "/SuryaDas/static/js/787.51ce941a.chunk.js",
+    "static/media/about.jpg": "/SuryaDas/static/media/about.d3688583352dca504235.jpg",
+    "static/media/three.jpg": "/SuryaDas/static/media/three.8e8b5a47921e540d86e8.jpg",
+    "static/media/two.png": "/SuryaDas/static/media/two.d9e0d041af9a0cbcc7d9.png",
+    "static/media/one.jpeg": "/SuryaDas/static/media/one.3edc73c0a627282c7947.jpeg",
+    "static/media/Chicken-Achar.jpg": "/SuryaDas/static/media/Chicken-Achar.cfd4bcb293cbfbd17aa7.jpg",
+    "index.html": "/SuryaDas/index.html",
+    "main.f855e6bc.css.map": "/SuryaDas/static/css/main.f855e6bc.css.map",
+    "main.b84762c8.js.map": "/SuryaDas/static/js/main.b84762c8.js.map",
+    "787.51ce941a.chunk.js.map": "/SuryaDas/static/js/787.51ce941a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.b84762c8.js"
+  ]
+}
